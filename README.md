@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @b-shreeyash
 - 👀 I’m interested in developing apps and web sites 
 - 🌱 I’m currently learning c, cpp, java, js, css, etc
-- 💞️ I’m looking to collaborate on .!\
+- 💞️ Currently in collaboration!
 - 📫 Here's how you can reach me (8669995468)
 
 <!---
