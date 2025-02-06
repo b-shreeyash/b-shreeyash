@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b-shreeyash
 - 👀 I’m interested in developing apps and web sites 
-- 🌱 I’m currently learning c, cpp, java, js, css, python, data analytics
+- 🌱Skilled c, cpp, java, js, css, python, data analytics programmer 
 - 📫 Here's how you can reach me (8669995468)
 
 <!---
