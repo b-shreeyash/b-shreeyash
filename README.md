@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @b-shreeyash
 - 👀 I’m interested in developing apps and web sites 
 - 🌱Skilled c, cpp, java, js, css, python, data analytics programmer 
-- 📫 Here's how you can reach me (8669995468)
+- 📫 Here's how you can reach me Shreeyash_B@outlook.com
 
 <!---
 b-shreeyash/b-shreeyash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
